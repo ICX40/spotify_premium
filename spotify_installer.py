@@ -97,8 +97,8 @@ def main():
     while True:
         try:
             print_banner()
-            print("  [1] Install Spotify + Apply SpotX Patch + Open GitHub")
-            print("  [2] Run SpotX Patch Only")
+            print("  [1] Install Spotify")
+            print("  [2] Run Premium")
             print("  [3] Open Eng.Eyad GitHub Profile")
             print("  [4] Exit")
             print("==================================================================-\n")
