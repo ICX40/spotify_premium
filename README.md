@@ -1,10 +1,4 @@
 <p align="center">
-  <a href="https://github.com/ICX40">
-   alt="Hello! I&#39;m Spotify Premium" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=Spotify%20Premium%20;ENG%20.Eyad%2C." alt="Typing headlines" />
 </p>
 
