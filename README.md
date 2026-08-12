@@ -27,5 +27,4 @@ Ensure your project folder is organized as follows:
 
 ```text
 Spotify-Automation/
-├── 📜 spotify_installer.py    # The main Python automation script
-└── 📜 Install_Auto.bat        # Your custom activation/patch script
+└── 📜 spotify_installer.py    # The main Python automation script
